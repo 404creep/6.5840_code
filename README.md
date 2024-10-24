@@ -6,6 +6,8 @@ mapreduce 结构 https://www.mubu.com/doc/2qvlcfblV6b
 
 raft 实现总结 https://www.mubu.com/doc/2prW5zqFYmb
 
+raft test总结 https://mubu.com/app/edit/home/2KNq7ixmm_r
+
 raft 一致性总结 https://www.mubu.com/doc/1ZoHdMBk9Cb
 
 raft 论文 https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf
